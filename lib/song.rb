@@ -47,6 +47,5 @@ class Song
     artist_name = data[1]
     song = self.new
 
-  ends
 
 end
